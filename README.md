@@ -57,7 +57,7 @@ Create a Book recommender system
 ---
 
 ## Deploy link
-[Streamlit app link](https://laptop-price-prediction-mod.streamlit.app/)
+[Streamlit app link](https://book-recommending-model.streamlit.app/)
 
 ## Author
 
